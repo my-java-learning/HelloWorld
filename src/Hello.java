@@ -10,6 +10,5 @@ public class Hello {
 
         System.out.println(myTotal);
         System.out.println(myDifference);
-
     }
 }
